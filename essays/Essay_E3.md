@@ -9,7 +9,7 @@ labels:
 
 <p> For the Invoice WOD we needed to create a sales receipt for five different products. Some of the tasks that we needed to complete consisted of listing the quantity, price, extended price, sub-total, and tax. In this receipt that we formatted to a table, we also had to make sure that each section was calculated and formatted properly. </p>
 
-<p> Here is a link to the Invoice WOD <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"></a> </p>
+<p><a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html">Here is a link to the Invoice WOD </a> </p>
 
 <p> While doing the WOD, I had the most trouble remembering to put the calculations for the sub-totals, tax, etc. I kept forgetting how to format the code so that it calculates properly. I also kept having minor mistakes, like forgetting to put semicolons and using the toFixed command properly to get rid of the extra decimals. For me, I usually forget the steps when the WODs are a bit longer. I eventually ended up having to scroll through the html in order to find out what I did wrong which led me to go past the RX times. </p>
 

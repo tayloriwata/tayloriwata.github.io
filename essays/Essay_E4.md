@@ -4,7 +4,7 @@ type: essay
 title: E4 My Progress in Programming Report
 date: 2022-04-5
 labels:
-  - WODs
+  - progress
 ---
 
 <b>My programming skills have greatly improved in the following ways: </b>

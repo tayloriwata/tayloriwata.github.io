@@ -6,7 +6,6 @@ date: 2022-04-5
 labels:
   - progress
 ---
-
 <b>My programming skills have greatly improved in the following ways: </b>
 	<p>The biggest way my programming skills have improved is how I read and interpret code. This is by far the biggest improvement because I still remember when we first started this class and I wasn’t sure how to read code and was often getting confused. Nowadays after completing the WOD’s and Assignment 1, it is easier for me to understand how to write code properly and why I need to write it.</p>
 <b>I need to work on the following to improve my programming skills:</b>

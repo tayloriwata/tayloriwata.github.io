@@ -17,10 +17,10 @@ In Assignment2 our task was to make a login page that popped up after the user p
 I did not work with a partner, but the total time I spent working on the assignment was around 6 days.
 
 <strong>How did you get help when you needed it? What did you need help with?</strong><br>
-I got help from rewwatching class recordings and going over the labs again since they had some examples that helped with Assignment2. I mostly needed help with figuring out the correct code to make the registration info go into the user_data.json file.
+I got help from rewatching class recordings and going over the labs again since they had some examples that helped with Assignment2. I mostly needed help with figuring out the correct code to make the registration info go into the user_data.json file.
 
 <strong>How was developing this assignment different than assignment #1?</strong><br>
-I think this assignment wasn’t as hard as completing assignment1 because assignment1 took longer since we were pretty much starting from scratch. Even though we kinda make a products store before in the labs it was still hard to make it look better and more professional. In Assignment2 we just had to add a few more codes and make a login/registration page which I didn’t find to be too hard compared to all the code we had to do in Asssignment1.
+I think this assignment wasn’t as hard as completing assignment1 because assignment1 took longer since we were pretty much starting from scratch. Even though we kind of made a products store before in the labs it was still hard to make it look better and more professional. In Assignment2 we just had to add a few more codes and make a login/registration page which I didn’t find to be too hard compared to all the code we had to do in Asssignment1.
 
 <strong>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</strong><br>
  If I were to guess I would say that it probably took me around 20% to think of how to plan my code and where to put it, 60% of the time was spent writing the code, and the other 20% was spent debugging and testing. 
@@ -29,4 +29,4 @@ I think this assignment wasn’t as hard as completing assignment1 because assig
 I thought that it was much easier for me to design my login page this time, since it took me a while to find a nice home page for Assignment1. I was having a few problems with writing the proper code to make my registration page send data to the user_data file but other than that I didn't think it was too bad. 
 
 <strong>If you could go back in time and do things differently, what would you do differently?</strong><br>
-If I can go back in time I think I would have palnned out my cod on the very first days that the assignment was introduced so that I can make time for me to get hlep from the professor. This would of allowed me to make my assignment look a lot better and have better formatted code. 
+If I can go back in time I think I would have planned out my code on the very first days that the assignment was introduced so that I can make time for me to get help from the professor. This would of allowed me to make my assignment look a lot better and have better formatted code. 
